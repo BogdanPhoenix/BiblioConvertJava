@@ -1,0 +1,34 @@
+{
+  "common" : [
+    "  ",
+    "ER",
+    "C7",
+    "C2",
+    "A1",
+    "CP",
+    "DA",
+    "ED",
+    "FU",
+    "FX",
+    "J9",
+    "JI",
+    "NR",
+    "PA",
+    "PI",
+    "PU",
+    "WE",
+    "ST"
+  ],
+  "scopus" : {
+    "all" : [ "JI", "AN" ],
+    "jour" : [ ],
+    "book" : [ "T2", "J2", "SP" ],
+    "conf" : [ ]
+  },
+  "wos" : {
+    "all" : [ "J2", "DB", "UR" ],
+    "jour" : [ ],
+    "book" : [ "T2", "J2", "SP" ],
+    "cpaper" : [ ]
+  }
+}

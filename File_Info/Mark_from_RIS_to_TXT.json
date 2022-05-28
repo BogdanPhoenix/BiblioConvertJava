@@ -1,0 +1,176 @@
+{
+  "all_list": [
+    {
+      "mark": "TI",
+      "value": "#200: ^A"
+    },
+    {
+      "mark": "DO",
+      "value": "#839: "
+    },
+    {
+      "mark": "M3",
+      "value": "#609: ^U"
+    },
+    {
+      "mark": "AB",
+      "value": "#331: "
+    },
+    {
+      "mark": "KW",
+      "value": "#610: "
+    }
+  ],
+  "jour_list": [
+    {
+      "mark": "T2",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "C3",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "J2",
+      "value": "^7"
+    },
+    {
+      "mark": "VL",
+      "value": "^V"
+    },
+    {
+      "mark": "IS",
+      "value": "^H"
+    },
+    {
+      "mark": "SP",
+      "value": "^4"
+    },
+    {
+      "mark": "EP",
+      "value": "-"
+    },
+    {
+      "mark": "PY",
+      "value": "^J"
+    },
+    {
+      "mark": "PB",
+      "value": "^G"
+    },
+    {
+      "mark": "SN",
+      "value": " ^P"
+    },
+    {
+      "mark": "CY",
+      "value": "^D"
+    }
+  ],
+  "conf_list": [
+    {
+      "mark": "C3",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "T2",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "J2",
+      "value": "^7"
+    },
+    {
+      "mark": "VL",
+      "value": "^V"
+    },
+    {
+      "mark": "IS",
+      "value": "^H"
+    },
+    {
+      "mark": "SP",
+      "value": "^4"
+    },
+    {
+      "mark": "EP",
+      "value": "-"
+    },
+    {
+      "mark": "PY",
+      "value": "^J"
+    },
+    {
+      "mark": "PB",
+      "value": "^G"
+    },
+    {
+      "mark": "SN",
+      "value": " ^P"
+    },
+    {
+      "mark": "CY",
+      "value": "^D"
+    }
+  ],
+  "book_list": [
+    {
+      "mark": "PY",
+      "value": "#210: ^d"
+    },
+    {
+      "mark": "PB",
+      "value": "^c"
+    },
+    {
+      "mark": "CY",
+      "value": "^a"
+    }
+  ],
+  "cpaper_list": [
+    {
+      "mark": "T2",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "C3",
+      "value": "#463: ^C"
+    },
+    {
+      "mark": "JI",
+      "value": "^7"
+    },
+    {
+      "mark": "VL",
+      "value": "^V"
+    },
+    {
+      "mark": "IS",
+      "value": "^H"
+    },
+    {
+      "mark": "SP",
+      "value": "^4"
+    },
+    {
+      "mark": "EP",
+      "value": "-"
+    },
+    {
+      "mark": "PY",
+      "value": "^J"
+    },
+    {
+      "mark": "PB",
+      "value": "^G"
+    },
+    {
+      "mark": "SN",
+      "value": " ^P"
+    },
+    {
+      "mark": "CY",
+      "value": "^D"
+    }
+  ]
+}
